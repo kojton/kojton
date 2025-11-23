@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Kornelia
 
-<!--
-**kojton/kojton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
 
-Here are some ideas to get you started:
+I identify professionally as both a Data Scientist and a Data Analyst.
+I’m currently exploring a wide range of tools and topics through hands-on projects to find my strongest specialization within the data field.
+I’m pursuing my Master’s Degree in Big Data – Data Analytics at SGH Warsaw School of Economics.
+I’m ambitious, eager to learn, and always ready to take on new challenges.
+What I enjoy the most is turning raw data into insights and real business value. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech Stack:
+
+** Main Languages: **  
+Python • SQL • SAS 4GL
+
+** Languages (Academic experience): **
+Julia • Java 
+
+** Data / ML: **  
+Pandas • NumPy • Scikit-learn • Spark / PySpark • NLP • TF-IDF • Clustering  
+
+** Analytics / Visualization: **  
+Matplotlib • Seaborn • PowerBI • Excel • EDA  
+
+** Engineering: **  
+Git • Docker • REST API • Databricks • MLflow (learning)
+
