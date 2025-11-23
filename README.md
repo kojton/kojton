@@ -1,8 +1,7 @@
-## Hi ☺️ I'm Kornelia
+## Hi ☺️ 
 
-## About me:
 
-I identify professionally as both a Data Scientist and a Data Analyst.
+I'm Kornelia and I identify professionally as both a Data Scientist and a Data Analyst.
 I’m currently exploring a wide range of tools and topics through hands-on projects to find my strongest specialization within the data field.
 I’m pursuing my Master’s Degree in Big Data – Data Analytics at SGH Warsaw School of Economics.
 I’m ambitious, eager to learn, and always ready to take on new challenges.
