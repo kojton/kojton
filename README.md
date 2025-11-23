@@ -10,18 +10,18 @@ What I enjoy the most is turning raw data into insights and real business value.
 
 ## Tech Stack:
 
-** Main Languages: **  
+**Main Languages:**  
 Python • SQL • SAS 4GL
 
-** Languages (Academic experience): **
+**Languages (Academic experience):**
 Julia • Java 
 
-** Data / ML: **  
+**Data / ML:**  
 Pandas • NumPy • Scikit-learn • Spark / PySpark • NLP • TF-IDF • Clustering  
 
-** Analytics / Visualization: **  
+**Analytics / Visualization:**  
 Matplotlib • Seaborn • PowerBI • Excel • EDA  
 
-** Engineering: **  
+**Engineering:**  
 Git • Docker • REST API • Databricks • MLflow (learning)
 
