@@ -1,4 +1,4 @@
-## Hi, I'm Kornelia
+## Hi ☺️ I'm Kornelia
 
 ## About me:
 
